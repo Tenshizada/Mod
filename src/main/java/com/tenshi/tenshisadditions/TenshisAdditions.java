@@ -1,6 +1,7 @@
 package com.tenshi.tenshisadditions;
 
 import com.tenshi.tenshisadditions.block.ModBlocks;
+import com.tenshi.tenshisadditions.item.ModCreativeModeTabs;
 import com.tenshi.tenshisadditions.item.ModItems;
 import org.slf4j.Logger;
 
@@ -31,10 +32,10 @@ public class TenshisAdditions {
 
         NeoForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
-
-
 
 
         modEventBus.addListener(this::addCreative);

@@ -2,5 +2,9 @@
   "item.tenshisadditions.alves": "ARROMBADO",
   "item.tenshisadditions.universalwrench": "Universal Wrench",
 
-  "block.tenshisadditions.alves_block": "Filho da Puta Block"
+  "block.tenshisadditions.alves_block": "Filho da Puta Block",
+
+  "creativetab.tenshisadditions.alves_items": "Itens do Ksalvs",
+  "creativetab.tenshisadditions.alves_block": "Blocos do Ksalvs"
+
 }
