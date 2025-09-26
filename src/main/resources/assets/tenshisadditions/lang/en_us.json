@@ -1,13 +1,6 @@
 {
-  "itemGroup.tenshisadditions": "Example Mod Tab",
-  "block.tenshisadditions.example_block": "Example Block",
-  "item.tenshisadditions.example_item": "Example Item",
+  "item.tenshisadditions.alves": "ARROMBADO",
+  "item.tenshisadditions.universalwrench": "Universal Wrench",
 
-  "tenshisadditions.configuration.title": "Tenshi's Additions Configs",
-  "tenshisadditions.configuration.section.tenshisadditions.common.toml": "Tenshi's Additions Configs",
-  "tenshisadditions.configuration.section.tenshisadditions.common.toml.title": "Tenshi's Additions Configs",
-  "tenshisadditions.configuration.items": "Item List",
-  "tenshisadditions.configuration.logDirtBlock": "Log Dirt Block",
-  "tenshisadditions.configuration.magicNumberIntroduction": "Magic Number Text",
-  "tenshisadditions.configuration.magicNumber": "Magic Number"
+  "block.tenshisadditions.alves_block": "Filho da Puta Block"
 }

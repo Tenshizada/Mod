@@ -1,4 +1,4 @@
-package com.tenshi.tenshiadditions;
+package com.tenshi.tenshisadditions;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;
